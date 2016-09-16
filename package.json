@@ -1,12 +1,12 @@
 {
-  "name": "portfolio",
+  "name": "lunch-presentation",
   "version": "1.0.0",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jbboynton/portfolo.git"
+    "url": "git+https://github.com/jbboynton/LunchPresentation.git"
   },
   "license": "ISC",
   "dependencies": {
