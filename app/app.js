@@ -6,7 +6,7 @@ var angular = require('angular');
 require('angular-route');
 require('angular-ui-bootstrap');
 
-var app = angular.module('portfolio', [
+var app = angular.module('lunch-presentation', [
   'ngRoute',
   'ui.bootstrap'
 ]);
