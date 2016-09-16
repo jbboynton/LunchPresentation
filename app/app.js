@@ -13,6 +13,7 @@ var app = angular.module('lunch-presentation', [
 
 // require('./components');
 // require('./filters');
+
 // require('./services');
 // require('./controllers');
 
